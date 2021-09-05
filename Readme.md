@@ -1,5 +1,4 @@
 ## Repository created while learning Typescript
----
 
 ## Theory 
 
